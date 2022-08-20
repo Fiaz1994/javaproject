@@ -2,7 +2,7 @@ package com.javapractive1;
 
 public class Demo1 {
 	public void apple() {
-		System.out.println("apples1");
+		System.out.println("apples1111111");
 	}
 
 	public void orange() {
